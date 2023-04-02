@@ -1,0 +1,12 @@
+{
+  "Author": "Infi",
+  "Name": "Perfectly Fair Dice",
+  "Punchline": "awawawa",
+  "Description": "/PRoll - outputs a dice roll | /Proll config - opens configuration menu to set bias values",
+  "InternalName": "PerfectlyFairDice",
+  "RepoUrl": "https://github.com/Infiziert90/BetterPlaytime",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin"
+  ]
+}
