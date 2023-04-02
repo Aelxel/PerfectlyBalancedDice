@@ -1,11 +1,11 @@
 {
-  "Author": "Infi",
+  "Author": "Aelxel",
   "Name": "Perfectly Fair Dice",
-  "InternalName": "BetterPlaytime",
+  "InternalName": "FairDice",
   "AssemblyVersion": "1.3.0.2",
   "Description": "/PRoll - outputs a dice roll | /Proll config - opens configuration menu to set bias values",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/Infiziert90/BetterPlaytime",
+  "RepoUrl": "https://github.com/Aelxel/PerfectlyBalancedDice",
   "Tags": [
     "plugin"
   ],
